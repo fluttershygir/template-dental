@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "QW Web Solutions",
+  title: "BrightSmile Dental - Complete Family Dentistry",
   description: "Modern websites designed for business.",
 };
 
@@ -32,3 +32,4 @@ export default function RootLayout({
     </html>
   );
 }
+
